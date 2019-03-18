@@ -3,4 +3,6 @@ for k,v in out.items():
         out[v]=k
         print("huan4")
 print(out)
+print("huanyu1")
 print("zhu1")
+print("huan3")
