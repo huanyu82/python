@@ -3,5 +3,3 @@ for k,v in out.items():
         out[v]=k
 print(out)
 
-print("huanyu1")
-print（"zhu11"）
