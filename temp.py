@@ -8,3 +8,5 @@ huanyu+1
 print("huanyu1")
 print("zhu1")
 print("huan3")
+1234566
+678960
